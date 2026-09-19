@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VladLikov//Apple App Store Payout Calendar FY2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Apple App Store Payouts
+X-WR-CALDESC:Estimated Apple App Store payout dates with exact covered periods (FY2027), based on RevenueCat.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:apple-payout-2026-10-01@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🍎 Apple payout · Aug 2–29
+DESCRIPTION:Estimated Apple App Store payout for the period August 2\, 2026 through August 29\, 2026. Apple fiscal month: August 2026. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2026-10-29@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🍎 Apple payout · Aug 30 – Sep 26
+DESCRIPTION:Estimated Apple App Store payout for the period August 30\, 2026 through September 26\, 2026. Apple fiscal month: September 2026. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2026-12-03@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🍎 Apple payout · Sep 27 – Oct 31
+DESCRIPTION:Estimated Apple App Store payout for the period September 27\, 2026 through October 31\, 2026. Apple fiscal month: October 2026. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2026-12-31@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:🍎 Apple payout · Nov 1–28
+DESCRIPTION:Estimated Apple App Store payout for the period November 1\, 2026 through November 28\, 2026. Apple fiscal month: November 2026. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-02-04@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:🍎 Apple payout · Nov 29 – Jan 2
+DESCRIPTION:Estimated Apple App Store payout for the period November 29\, 2026 through January 2\, 2027. Apple fiscal month: December 2026. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-03-11@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:🍎 Apple payout · Jan 3 – Feb 6
+DESCRIPTION:Estimated Apple App Store payout for the period January 3\, 2027 through February 6\, 2027. Apple fiscal month: January 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-04-08@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:🍎 Apple payout · Feb 7 – Mar 6
+DESCRIPTION:Estimated Apple App Store payout for the period February 7\, 2027 through March 6\, 2027. Apple fiscal month: February 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-05-06@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:🍎 Apple payout · Mar 7 – Apr 3
+DESCRIPTION:Estimated Apple App Store payout for the period March 7\, 2027 through April 3\, 2027. Apple fiscal month: March 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-06-10@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:🍎 Apple payout · Apr 4 – May 8
+DESCRIPTION:Estimated Apple App Store payout for the period April 4\, 2027 through May 8\, 2027. Apple fiscal month: April 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-07-08@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:🍎 Apple payout · May 9 – Jun 5
+DESCRIPTION:Estimated Apple App Store payout for the period May 9\, 2027 through June 5\, 2027. Apple fiscal month: May 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-08-05@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:🍎 Apple payout · Jun 6 – Jul 3
+DESCRIPTION:Estimated Apple App Store payout for the period June 6\, 2027 through July 3\, 2027. Apple fiscal month: June 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-09-09@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:🍎 Apple payout · Jul 4 – Aug 7
+DESCRIPTION:Estimated Apple App Store payout for the period July 4\, 2027 through August 7\, 2027. Apple fiscal month: July 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-10-07@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:🍎 Apple payout · Aug 8 – Sep 4
+DESCRIPTION:Estimated Apple App Store payout for the period August 8\, 2027 through September 4\, 2027. Apple fiscal month: August 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-payout-2027-11-04@vladlikov
+DTSTAMP:20260919T011206Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:🍎 Apple payout · Sep 5 – Oct 2
+DESCRIPTION:Estimated Apple App Store payout for the period September 5\, 2027 through October 2\, 2027. Apple fiscal month: September 2027. Payout date is an estimate\; Apple does not publish a fixed official payout schedule. Source: RevenueCat.
+URL:https://www.revenuecat.com/blog/growth/apple-fiscal-calendar-year-payment-dates
+TRANSP:TRANSPARENT
+CATEGORIES:Apple,App Store Connect,Payout
+END:VEVENT
+END:VCALENDAR
